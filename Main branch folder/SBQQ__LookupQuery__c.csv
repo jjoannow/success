@@ -1,0 +1,53 @@
+"Guid","SBQQ__LookupField__c","SBQQ__MatchType__c","SBQQ__Operator__c","SBQQ__PriceRule2__c","SBQQ__ProductRule__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedValue__c"
+04d59523-3cfa-4ea6-b3d8-923397979845,Product__c,Field Value,equals,00262847-8ecd-44be-a62e-13de642e4281,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+0dc58b92-98c7-4e31-800d-a3861534859e,Product__c,Field Value,equals,dbe042cc-3277-423f-b26c-39f79b9baff0,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+1bda11b8-2ec9-4a54-91c7-112d3464bfa8,Product__c,Field Value,equals,3c31b8bf-5ca3-4861-8d26-c9c23bd7dd45,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+1d2b3d75-42a9-4064-8e3c-2f4c7408a55c,Approval_Level__c,Static Value,equals,a59072a7-c37a-473c-bfba-d91f353ba01a,"#N/A","#N/A","#N/A",2
+20849937-07d0-4724-a578-ca4ee13f3c7a,Upper_Bound_Percent__c,Field Value,less than,d7f069be-cb28-4046-85d2-eea653aee1b3,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+340ee07b-a53b-421c-914c-c5dac099001d,Product__c,Field Value,equals,71164fe6-e56c-42e0-a718-c20606f1b99c,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+39cda375-a204-4f82-aeab-e87cadde45b0,Approval_Level__c,Static Value,equals,72e189f2-b0cc-440d-997b-ba98dd06faf2,"#N/A","#N/A","#N/A",1
+3c09c98b-e408-4534-aa34-10decc3193f1,Upper_Bound_Percent__c,Field Value,less than,00262847-8ecd-44be-a62e-13de642e4281,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+401f83c2-30b1-4b87-8f50-820ec0bf6d92,Lower_Bound_Percent__c,Field Value,greater or equals,9016b34f-a17d-483b-8797-cb1b150a1af6,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+44203624-a5ae-44d9-b00f-8d27b08b4796,Upper_Bound_Percent__c,Field Value,less than,3c31b8bf-5ca3-4861-8d26-c9c23bd7dd45,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+48504eb5-8065-4f80-818f-def093c7350d,Role__c,Field Value,equals,0f8c6057-8254-4bfe-86da-6b268a195298,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+4b164a84-438b-4b22-b86b-6d5a0720b051,Resource_Location__c,Field Value,equals,0f8c6057-8254-4bfe-86da-6b268a195298,"#N/A",Resource_Location__c,Quote Line,"#N/A"
+4b99f2df-5a8d-45ce-aebe-6733d1206a6f,Lower_Bound_Percent__c,Field Value,greater or equals,00262847-8ecd-44be-a62e-13de642e4281,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+630099e6-e88c-4924-98c2-566dcc76e800,Threshold_Type__c,Static Value,equals,d7f069be-cb28-4046-85d2-eea653aee1b3,"#N/A","#N/A","#N/A",Discount
+64707008-214f-4472-905f-ca25b0557201,Threshold_Type__c,Static Value,equals,9016b34f-a17d-483b-8797-cb1b150a1af6,"#N/A","#N/A","#N/A",Discount
+68facf85-46ab-49a7-bb88-81d9c5b172b8,Approval_Level__c,Static Value,equals,596f69e8-a3b8-4849-8dd3-c84b979757b6,"#N/A","#N/A","#N/A",2
+6964163e-f7b6-4324-9262-637a9f449f8e,Upper_Bound_Percent__c,Field Value,less than,9016b34f-a17d-483b-8797-cb1b150a1af6,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+6bffc6c2-b556-41b0-825e-eab79f9e6d51,Approval_Level__c,Static Value,equals,5a3be0a2-5cda-463e-8b6f-428ad5b30341,"#N/A","#N/A","#N/A",1
+6d29745f-9f17-45dd-85b6-f2916e77432a,Engineering_Options__c,Field Value,equals,6f7ef2f0-7850-43da-9417-8a5da73b6f8c,"#N/A",Engineering_Options__c,Quote Line,"#N/A"
+6dadeccf-ecae-4d80-b976-70e891fca586,Resource_Location__c,Field Value,equals,6f7ef2f0-7850-43da-9417-8a5da73b6f8c,"#N/A",Resource_Location__c,Quote Line,"#N/A"
+6f66a90f-27c5-45f9-bbc6-d0daf941c609,Approval_Level__c,Static Value,equals,66242c14-2dea-4390-b0ce-6eaff314557a,"#N/A","#N/A","#N/A",2
+6f9f3eed-8116-4e04-bb32-86f94020c82c,Product__c,Field Value,equals,596f69e8-a3b8-4849-8dd3-c84b979757b6,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+7228c5a6-9e63-4d6b-a369-dfc79279e23c,Resource_Location__c,Field Value,equals,2273e4b1-5f58-4a22-991c-719b2af71d23,"#N/A",Resource_Location__c,Quote Line,"#N/A"
+73d9f9a3-b930-4513-a4f8-5a3326a76091,Product__c,Field Value,equals,57f469e5-0b88-40b0-9277-5b7b26856a40,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+788098ec-dcf3-494a-8587-f0939c3a83b2,Approval_Level__c,Static Value,equals,89439998-08c6-4de9-8092-864b4a2121f5,"#N/A","#N/A","#N/A",1
+7b52262a-eea3-4b25-bcc9-189ad1ed596d,Engineering_Options__c,Field Value,equals,4e3c9e39-6771-404b-aaae-ccd3822a515b,"#N/A",Engineering_Options__c,Quote Line,"#N/A"
+7e7fc2b4-c26b-4cd7-a313-4b96ca3629ab,Approval_Level__c,Static Value,equals,dbe042cc-3277-423f-b26c-39f79b9baff0,"#N/A","#N/A","#N/A",1
+8240ac0c-c32e-49dc-8275-f219b43be10c,Role__c,Field Value,equals,2273e4b1-5f58-4a22-991c-719b2af71d23,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+90b4aaad-9326-4ecf-9cd2-a88b763c21ed,Product__c,Field Value,equals,72e189f2-b0cc-440d-997b-ba98dd06faf2,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+920b7c60-8f59-4e49-a226-60b3e35f0129,Product__c,Field Value,equals,384b4a4c-1938-4a59-b30c-a37066c45804,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+9c9f564c-be2d-41f7-afc2-fd8fd657511b,Approval_Level__c,Static Value,equals,71164fe6-e56c-42e0-a718-c20606f1b99c,"#N/A","#N/A","#N/A",3
+a2ba2fde-7308-40bc-b8be-f76f0f8d86d3,Approval_Level__c,Static Value,equals,1271f6e5-4884-4f0e-8a29-5148da1ad54d,"#N/A","#N/A","#N/A",3
+a94f7077-b644-4eca-8c75-fbe613f5c183,Threshold_Type__c,Static Value,equals,00262847-8ecd-44be-a62e-13de642e4281,"#N/A","#N/A","#N/A",Discount
+abdadeb0-8329-4197-96d3-5a1592fb9b20,Product__c,Field Value,equals,a59072a7-c37a-473c-bfba-d91f353ba01a,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+aed53748-a574-4617-92cc-882a32448d86,Product__c,Field Value,equals,89439998-08c6-4de9-8092-864b4a2121f5,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+b176b079-af39-49e6-bd30-c1bf1c337258,Approval_Level__c,Static Value,equals,8c2abc69-fd8e-4844-9057-8bd9ba6584d7,"#N/A","#N/A","#N/A",2
+b1b492e0-c053-441b-8535-6883542e0a48,Product__c,Field Value,equals,8c2abc69-fd8e-4844-9057-8bd9ba6584d7,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+b43b33b8-a057-4b2a-9e17-8bb2911bd5d7,Approval_Level__c,Static Value,equals,57f469e5-0b88-40b0-9277-5b7b26856a40,"#N/A","#N/A","#N/A",3
+ca3c72ab-61ed-42bc-9c29-0e342895b920,Lower_Bound_Percent__c,Field Value,greater or equals,3c31b8bf-5ca3-4861-8d26-c9c23bd7dd45,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+d29d9570-598c-4439-b5af-aedca7624b33,Approval_Level__c,Static Value,equals,384b4a4c-1938-4a59-b30c-a37066c45804,"#N/A","#N/A","#N/A",3
+d3ab32b8-b9d6-42f8-9937-f9836774b19f,Product__c,Field Value,equals,d7f069be-cb28-4046-85d2-eea653aee1b3,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+d9487a96-5f58-415a-9d67-5b18e4567cbc,Product__c,Field Value,equals,1271f6e5-4884-4f0e-8a29-5148da1ad54d,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+db170688-56f6-49d0-8f0f-9f795c3144c7,Product__c,Field Value,equals,5a3be0a2-5cda-463e-8b6f-428ad5b30341,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+dce472b5-71cd-43dd-943d-3896c4e8a83f,Lower_Bound_Percent__c,Field Value,greater or equals,d7f069be-cb28-4046-85d2-eea653aee1b3,"#N/A",Discretionary_Discount_Decimal__c,Quote Line,"#N/A"
+e5bf0701-54a9-446a-b1d5-5493773178cb,Engineering_Options__c,Field Value,equals,0f8c6057-8254-4bfe-86da-6b268a195298,"#N/A",Engineering_Options__c,Quote Line,"#N/A"
+e67b0aca-c26e-40c6-9f1c-4325dc4e368d,Resource_Location__c,Field Value,equals,4e3c9e39-6771-404b-aaae-ccd3822a515b,"#N/A",Resource_Location__c,Quote Line,"#N/A"
+e6c89408-625f-4a2c-84f6-6348588369e6,Threshold_Type__c,Static Value,equals,3c31b8bf-5ca3-4861-8d26-c9c23bd7dd45,"#N/A","#N/A","#N/A",Discount
+e9d34f44-5532-47fd-a8c5-9ea91d014a19,Product__c,Field Value,equals,66242c14-2dea-4390-b0ce-6eaff314557a,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+ec99967f-4b00-47b3-89a9-42431189d0a8,Product__c,Field Value,equals,9016b34f-a17d-483b-8797-cb1b150a1af6,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+f2590614-061c-4165-89af-c56c65754b59,Engineering_Options__c,Field Value,equals,2273e4b1-5f58-4a22-991c-719b2af71d23,"#N/A",Engineering_Options__c,Quote Line,"#N/A"
+fc8cb541-7370-4fca-ac28-ed024a087df6,Role__c,Field Value,equals,4e3c9e39-6771-404b-aaae-ccd3822a515b,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
+fe2a6411-899e-4397-af14-19f5ddb7e87d,Role__c,Field Value,equals,6f7ef2f0-7850-43da-9417-8a5da73b6f8c,"#N/A",SBQQ__Product__c,Quote Line,"#N/A"
